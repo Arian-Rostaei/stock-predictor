@@ -13,7 +13,7 @@ A multilingual desktop application for predicting US stock market prices using M
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-predictor.git
+git clone https://github.com/Arian-Rostaei/stock-predictor.git
 cd stock-predictor
 python3 -m venv venv --system-site-packages
 source venv/bin/activate
